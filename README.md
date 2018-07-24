@@ -1,5 +1,5 @@
 # Awesome Vim
-
+##
 Plugins are organized by section and ordered alphabetically.
 
 ## Table of Contents
